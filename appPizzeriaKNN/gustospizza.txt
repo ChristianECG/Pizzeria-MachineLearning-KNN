@@ -1,0 +1,123 @@
+19,1,Hawaiana
+17,1,Jamón
+16,1,Jamón
+20,0,Peperoni
+17,1,Champiñones
+16,1,Champiñones
+17,0,Hawaiana
+20,0,Pepperoni
+20,0,Hawaiana
+19,1,Carnes frias
+19,0,Hawaiana
+26,1,Hawaiana
+21,0,Mexicana
+18,0,Champiñones
+23,1,Hawaiana
+19,1,Pepperoni
+19,1,Suprema
+23,0,Al pastor
+31,1,Mexicana
+18,0,Italiana
+16,1,Hawaiana
+21,0,Champiñones
+16,0,Carnes frias
+16,1,Tres quesos
+22,0,Pepperoni
+22,0,Champiñones
+16,0,Pepperoni
+20,0,Pepperoni
+17,0,Mexicana
+19,0,Hawaiana
+19,0,Carnes frias
+19,1,Pepperoni
+19,0,Camarón
+21,1,Hawaiana
+18,0,Pepperoni
+18,1,Pepperoni
+18,0,Pepperoni
+16,0,Pepperoni
+54,0,Hawaiana
+17,1,Hawaiana
+22,0,Pepperoni
+21,1,Pepperoni
+22,0,Hawaiana
+24,0,Pepperoni
+23,1,Hawaiana
+20,0,Hawaiana
+24,1,Pepperoni
+25,1,Hawaiana
+23,0,Mexicana
+18,1,Hawaiana
+23,1,Pepperoni
+23,1,Cuatro quesos
+24,1,Pepperoni
+22,1,Hawaiana
+19,0,Cuatro quesos
+21,0,Hawaiana
+26,0,Pepperoni
+22,1,Pepperoni
+26,0,Pepperoni
+18,1,Hawaiana
+56,1,Mexicana
+21,0,Pepperoni
+26,1,Pepperoni
+20,1,Hawaiana
+22,1,Pepperoni
+18,1,Mexicana
+18,1,Pepperoni
+37,1,Hawaiana
+19,1,Queso
+21,1,Champiñones
+20,1,Hawaiana
+22,1,Pepperoni
+22,1,Hawaiana
+25,1,Hawaiana
+21,0,Hawaiana
+45,1,Pepperoni
+22,1,Queso
+19,1,Pepperoni
+21,1,Al pastor
+21,0,Cuatro quesos
+43,1,Mexicana
+22,0,Hawaiana
+23,1,Hawaiana
+22,1,Mexicana
+32,0,Carnes frías
+26,0,Jamón
+20,1,Vegetariana
+22,1,Hawaiana
+23,0,Hawaiana
+45,1,Campestre
+24,0,Mexicana
+19,1,Vegetariana
+20,1,Champiñones
+20,0,Champiñones
+18,1,Hawaiana
+19,1,Salchicha
+18,1,Carnes frías
+21,0,Mexicana
+40,0,Hawaiana
+20,0,Azteca
+18,0,Carnes frías
+19,1,Mexicana
+27,1,Hawaiana
+18,1,Hawaiana
+19,0,Champiñones
+18,1,Hawaiana
+18,1,Pepperoni
+19,0,Carnes frías
+19,0,Carnes frías
+19,0,Carnes frías
+18,0,Mexicana
+18,0,Hawaiana
+18,1,Hawaiana
+19,1,Salchicha
+19,1,Azteca
+19,1,Hawaiana
+19,1,Carnes frías
+21,0,Carnes frías
+19,1,Hawaiana
+19,1,Azteca
+19,1,Azteca
+18,0,Hawaiana
+18,0,Pepperoni
